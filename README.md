@@ -2,10 +2,8 @@
 
 👋 Xin chào! Mình là **Hoàng Văn Vương Thu**,  
 🎓 Sinh viên năm 3 **Ngành An toàn thông tin** tại **Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE)**  
-💻 Mình yêu thích công nghệ, bảo mật.
-
-🌱 Luôn học hỏi, tìm tòi những điều mới mỗi ngày.
-
+💻 Mình yêu thích công nghệ, bảo mật. 
+🌱 Luôn học hỏi, tìm tòi những điều mới mỗi ngày. 
 🎯 Mục tiêu: Trở thành kỹ sư an toàn thông tin chuyên nghiệp
 
 ---
