@@ -29,6 +29,7 @@
 | **Tuần 4** | Bài 7 - Chương 7.1| [Xem tại đây](https://hoangvvthu-bai7-cart.onrender.com) |
 |            | Bài 7 - Chương 7.2 | [Xem tại đây](https://hoangvvthu-bai7-download.onrender.com) |
 | **Tuần 5** | Bài 8 - Chương 12| [Xem tại đây](https://hoangvvthu-chuong12.onrender.com) |
+| **Tuần 6** | Bài 9 - Chương 13| [Xem tại đây](https://hoangvvthu-chuong13.onrender.com) |
 
 ---
 
